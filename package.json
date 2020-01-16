@@ -5,7 +5,9 @@
   "author": "Tete",
   "license": "UNLICENSED",
   "engines": {
-    "node": "12.8.1"
+    "node": "12.8.1",
+    "npm": "6.10.2",
+    "yarn": "1.19.1"
   },
   "dependencies": {
     "@babel/core": "^7.6.2",

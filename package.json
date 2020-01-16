@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Cloning Youtube with Vanilla and NodeJS",
   "author": "Tete",
+  "license": "UNLICENSED",
   "dependencies": {
     "@babel/core": "^7.6.2",
     "@babel/node": "^7.6.2",

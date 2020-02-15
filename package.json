@@ -42,7 +42,7 @@
     "sha.js": "^2.4.11",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "dev:server": "nodemon --exec babel-node src/init.js --delay 2 --ignore '.scss' --ignore 'static'",
